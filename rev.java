@@ -1,4 +1,5 @@
 import java.util.*;
+import java.lang.*;
 class rev
 {
   public static void main(String args[])
